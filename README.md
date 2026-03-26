@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Sparsh Sachan
 
-<!--
-**sparsh03-tv/sparsh03-tv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (ET) Student  
+🏫 VIT Bhopal University  
+📅 Expected Graduation: 2029  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- I am a beginner in programming  
+- Currently learning C, Python
+- Interested in improving my coding skills  
+- Looking forward to building real-world projects  
+
+---
+
+## 🛠️ Skills (Learning Phase)
+- C Programming  
+- Python (Basics)  
+- HTML (Basics)  
+- Git & GitHub  
+
+---
+
+## 🎯 My Goal
+To become a skilled developer and build useful projects during my college journey.
+
+---
+
+## 📫 Connect
+I will update my LinkedIn profile soon.
+www.linkedin.com/in/sparsh-sachan-6444923ba
+
+---
+
+⭐ Learning step by step 🚀
